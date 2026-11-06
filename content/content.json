@@ -1,0 +1,11 @@
+{
+ "version": "2026.11.5",
+ "date": "05/11/2026",
+ "min_app": "1.0.0",
+ "url": "content.js",
+ "sha256": "ca8f517d744b5c9bfec3ba7d4153f7695a25e7bb10faa7fbdd2d8c31809a58e0",
+ "sig": "2nEGV2BHQnKdYTJvF8TyP03IOlCXzKrlp+N6/2qHFmBtTotqsxqTWVJnYivrzASbEo86xiOsjf+/q0PNpwEI/w==",
+ "alg": "ECDSA-P256-SHA256",
+ "notes": "Revisão final pré-loja: CCI (Clavien) com pesos publicados; IPFSG conforme Lorch 2010; falha ao BCG aos 3 meses; mHSPC separa risco cardiovascular de quedas/cognição; textos PRE-005/006/014/024; CRPC sem valores fictícios.",
+ "built": "2026-11-05T03:27:22.539Z"
+}
